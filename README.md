@@ -1,5 +1,7 @@
 # World_Weather_Analysis
 
+# NOTE: API KEYS WERE REMOVED FROM CONFIG.PY, WHICH MAY AFFECT THE ABILITY TO RUN THE SCRIPTS IN THIS PROJECT
+
 ## Purpose
 This project includes three main deliverables:
 
