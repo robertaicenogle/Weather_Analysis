@@ -1,5 +1,12 @@
 # World_Weather_Analysis
 
+## Project Overview
+This project involves the use of 
+
+## Resources
+- Data Source:
+- Software:
+
 # NOTE: API KEYS WERE REMOVED FROM CONFIG.PY, WHICH MAY AFFECT THE ABILITY TO RUN THE SCRIPTS IN THIS PROJECT
 
 ## Purpose
