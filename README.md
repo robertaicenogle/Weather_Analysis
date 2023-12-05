@@ -1,11 +1,11 @@
 # World_Weather_Analysis
 
 ## Project Overview
-This project involves the use of 
+This project involves the use of Python and Jupyter Notebook to develop a travel itinerary map.
 
 ## Resources
-- Data Source:
-- Software:
+- Data Source: 
+- Software: Python and Jupyter Notebook
 
 ## Purpose
 This project includes three main deliverables:
